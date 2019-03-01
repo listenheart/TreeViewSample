@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Treeview.qml</file>
+        <file>TreeviewForm.ui.qml</file>
+        <file>ItemDelegate.qml</file>
+    </qresource>
+</RCC>
